@@ -94,11 +94,11 @@ export default function Home() {
 
              
  
- {/* <GltfModel modelPath="/coq4.glb"  
+ <GltfModel modelPath="/coq4.glb"  
     // Handle drag event
  position={[-4,5,20]} color={coquinaColor}  scale={[50, 50, 50]}  />  
  
-              */}
+             
                 <Ocean/> 
             
               

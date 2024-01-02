@@ -2,6 +2,7 @@ import React, { useRef, useMemo, useEffect, useState } from 'react';
 import { useFrame, useLoader } from '@react-three/fiber';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader';
 import { STLLoader } from 'three/examples/jsm/Addons.js';
+import { FBXLoader } from 'three/examples/jsm/Addons.js';
 import * as THREE from 'three';
 import { Color } from 'three';
 
